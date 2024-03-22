@@ -1,2 +1,2 @@
 # Project
-A linkedin Clone utilzing NextJs and FireBase/SupaBase
+A linkedin Clone utilizing NextJs and FireBase/SupaBase
